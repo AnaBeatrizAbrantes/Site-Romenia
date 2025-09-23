@@ -1,2 +1,2 @@
-# Web-sites
-Minha progressão durante a disciplina Laboratório de Programação de Web Sites na universidade de vassouras
+# Site de curiosidades sobre a Romênia
+Exercício feito na aula Laboratório de Programação de Web Sites, aplicando conceitos de HTML e CSS.
