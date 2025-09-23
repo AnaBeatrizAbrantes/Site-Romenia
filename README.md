@@ -1,2 +1,2 @@
-# Web-sites
-Minha progressão durante a disciplina Laboratório de Programação de Web Sites na Universidade de Vassouras, 2º período
+# Página em html e Css sobre um País
+Exercício feito na aula Laboratório de Programação de Web Sites, aplicando conceitos de HTML e CSS.
